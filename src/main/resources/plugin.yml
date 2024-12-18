@@ -1,0 +1,4 @@
+name: BrigadierExample
+version: '1.0-SNAPSHOT'
+main: codes.bed.brigadier.Example
+api-version: '1.21'
